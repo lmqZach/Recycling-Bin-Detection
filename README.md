@@ -60,4 +60,4 @@ For Blue Bin Detection, since we only use the train data for training weight w, 
 
 <img width="526" alt="Screen Shot 2022-05-09 at 17 35 47" src="https://user-images.githubusercontent.com/92130976/167502623-e425424b-a897-467f-af89-7cd633fcfe26.png">
 
-<img width="526" alt="Screen Shot 2022-05-09 at 17 35 38" src="https://user-images.githubusercontent.com/92130976/167502641-6229ba5e-559c-43ed-a305-60ae12621d21.png">
+<img width="525" alt="Screen Shot 2022-05-09 at 17 35 57" src="https://user-images.githubusercontent.com/92130976/167502702-ce319b1c-8450-40b9-9478-0c89bfee53c8.png">
