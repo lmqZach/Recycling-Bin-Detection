@@ -26,7 +26,9 @@
 Train a probabilistic color model to recognize recycling-bin blue color and use it to segment unseen images into blue regions. 
 
 ### Detailed Tasks
-Given the blue regions, detect blue recycling bins and draw a bounding box around each one. The data and starter code for this part is contained in the folder bin detection. You must implement one of the models from Pixel Classification., either Logistic Regression or Na ̈ıve Bayes or Gaussian Discriminant Analysis for color classification. 
+1. This project utilize the pixel classification method from: https://github.com/lmqZach/Pixel-Classification
+
+2. Given the blue regions, detect blue recycling bins and draw a bounding box around each one. The data and starter code for this part is contained in the folder bin detection. You must implement one of the models from Pixel Classification., either Logistic Regression or Na ̈ıve Bayes or Gaussian Discriminant Analysis for color classification. 
 
 ## Overview:
 With the increasing trend of building an environment-friendly community, col- lecting recyclables has become very impor- tant. However, finding all blue recycling bins over one road when collecting is still a problem for the human employee. People might not identify each container precisely over a long time. Hence, it will be better if we have an excellent classifier to help hu- man drivers detect the recycle bins and im- prove the efficiency of collecting recyclables.
