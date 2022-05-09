@@ -57,3 +57,7 @@ For Blue Bin Detection, since we only use the train data for training weight w, 
 ## Example of Segmented Color Images
 
 <img width="526" alt="Screen Shot 2022-05-09 at 17 35 38" src="https://user-images.githubusercontent.com/92130976/167502574-22c64cf2-af6b-4b79-9965-7dfa51a5f2c1.png">
+
+<img width="526" alt="Screen Shot 2022-05-09 at 17 35 47" src="https://user-images.githubusercontent.com/92130976/167502623-e425424b-a897-467f-af89-7cd633fcfe26.png">
+
+<img width="526" alt="Screen Shot 2022-05-09 at 17 35 38" src="https://user-images.githubusercontent.com/92130976/167502641-6229ba5e-559c-43ed-a305-60ae12621d21.png">
