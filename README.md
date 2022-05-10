@@ -15,11 +15,11 @@
   |       |-- ```
   |   |-- roipoly
   |       |-- ```
-  |   |-- bin_detector.py
-  |   |-- bin_weight.npy
-  |   |-- requirements.txt
-  |   |-- test_bin_detector.py
-  |   |-- test_roipoly.py
+  |       |-- bin_detector.py
+  |       |-- bin_weight.npy
+  |       |-- requirements.txt
+  |       |-- test_bin_detector.py
+  |       |-- test_roipoly.py
 ```
 # Report
 ## Objective
